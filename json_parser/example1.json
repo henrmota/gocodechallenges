@@ -1,0 +1,8 @@
+{
+    "henrique": "Mota",
+    "age": 40,
+    "nested": {
+        "henrique": "Mota",
+        "age": 40
+    }
+}
